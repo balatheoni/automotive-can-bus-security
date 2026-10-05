@@ -46,6 +46,7 @@ The experimental CAN network consists of three main nodes:
 *Attacker*: A third Arduino is connected to the same CAN network and is used to simulate controlled cybersecurity experiments.
 
 
+
 ⚠️ Disclaimer
 
 This project was developed strictly for educational and academic research purposes in a controlled laboratory environment. The code and techniques demonstrated here are intended to illustrate CAN Bus security concepts, vulnerabilities, and defensive mechanisms. Do not use this code to interfere with, disrupt, modify, or gain unauthorized access to real vehicles, production systems, or CAN networks. The author is not responsible for misuse of the information or code contained in this repository.
