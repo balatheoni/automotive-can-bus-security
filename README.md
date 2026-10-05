@@ -7,7 +7,9 @@ Experimental Architecture
 
 The experimental CAN network consists of three main nodes:
 Sender: The Sender Arduino generates and transmits legitimate CAN messages over the network.
+
 Receiver: The Receiver monitors the CAN Bus, receives transmitted frames, extracts CAN identifiers and payloads, and displays the received data through the serial interface.
+
 Attacker: A third Arduino is connected to the same CAN network and is used to simulate controlled cybersecurity experiments.
 
 
