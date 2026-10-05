@@ -1,4 +1,4 @@
-CAN Bus Security & Attack Simulation using Arduino
+**CAN Bus Security & Attack Simulation using Arduino**
 
 An Arduino-based automotive cybersecurity project focused on the study of Controller Area Network (CAN Bus) communication, vulnerabilities, attack scenarios, and security mechanisms. The project was developed in a controlled laboratory environment using Arduino CAN Bus Shields, MCP2515-based CAN communication, ECUsim, TeraTerm, and VatiCAN concepts. The experimental setup consists of multiple CAN nodes representing a legitimate Sender, Receiver, and an additional Attacker node used to simulate different communication disruption and message-manipulation scenarios.
 
